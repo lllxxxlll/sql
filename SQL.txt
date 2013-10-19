@@ -1,0 +1,17 @@
+
+CREATE PROCEDURE SPU_EMPLOYER_
+	
+AS
+BEGIN
+	
+END
+GO
+
+Создать таблицу с домами
+
+Employer
+Job
+Institute
+UFMS
+Passport
+Unemployed
